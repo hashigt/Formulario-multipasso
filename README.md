@@ -35,16 +35,4 @@ Formulario-multipasso é um exemplo simples de formulário multi-etapas (wizard)
 - `vite-project/src/hooks/useForm.jsx` — hook para gerenciar passos e componente atual
 - `vite-project/src/App.jsx` — integra os componentes e controla o fluxo
 
-## Melhorias sugeridas
-
-- Validar campos de entrada e exibir mensagens de erro
-- Adição de testes unitários para o hook `useForm`
-- Salvar o progresso do formulário (localStorage) para rascunhos
-- UI/UX: animações entre passos, feedback de envio
-
----
-
-Licença: ver o arquivo `LICENSE` no repositório.
-
-Se quiser, posso adicionar um GIF demonstrando o fluxo ou colocar badges (build, licença, dependências).
 
